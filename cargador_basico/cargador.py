@@ -1,6 +1,6 @@
 import tkMessageBox
 import Tkinter
-import import
+import imp
 
 try:
     imp.load_source("__main__", "run.py")
